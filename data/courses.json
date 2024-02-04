@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Html",
+    "picture": "https://qph.cf2.quoracdn.net/main-qimg-1a68d0e30e4cd360db765e1e9718b5c1"
+  },
+  {
+    "id": "2",
+    "name": "Css",
+    "picture": "https://cdn6.aptoide.com/imgs/d/b/1/db15c8f3e911f21c53ddd9736ee27571_icon.png"
+  },
+  {
+    "id": "3",
+    "name": "Javascript",
+    "picture": "https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/blog/2021-12-16/what-can-you-do-with-javascript-thumb.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Bootstrap",
+    "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsdtimes.com%2Fwebdev%2Fbootstrap-4-released%2F&psig=AOvVaw2wCPPMOUKD6FhwkwtoJvGh&ust=1707128886585000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDWkuq8kYQDFQAAAAAdAAAAABAE"
+  },
+  {
+    "id": "5",
+    "name": "Tailwind Css",
+    "picture": "https://picperf.io/https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg"
+  },
+  {
+    "id": "6",
+    "name": "React Js",
+    "picture": ""
+  }
+]
